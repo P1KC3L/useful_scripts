@@ -1,0 +1,1 @@
+echo "alias up='sudo apt update && sudo apt full-upgrade -y'" >> ~/.bash_aliases
