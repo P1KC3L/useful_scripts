@@ -22,4 +22,4 @@ sudo apt install ros-humble-desktop-full -y
 sudo apt install ros-humble-gazebo-ros-pkgs -y
 
 ##SETUP THE ENVIRONMENT
-source /opt/ros/humble/setup.bash
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
